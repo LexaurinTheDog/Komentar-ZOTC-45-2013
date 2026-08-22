@@ -78,6 +78,11 @@ Riziko spočívá v podceňování samostatnosti postavení oběti orgány zvykl
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [13 To 277/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7717318DEF205F1C1258DC30026B231?openDocument) — 24. 9. 2024, kat. A
+  > „O tom, že poškozený je zvlášť zranitelnou obětí, nevydává soud samostatné usnesení podle § 51a odst. 2 tr. ř. Rozhodne-li usnesením podle § 51a odst. 4 tr. ř. o ustanovení zmocněnce, uvede v jeho odůvodnění, na jakém podkladě takové postavení poškozeného dovodil. Toto usnesení je obviněný oprávněn napadnout stížností. Pro přiznání statusu zvlášť zranitelné oběti ve smyslu § 2 odst. 4 písm. d) zákona č. 45/2013 Sb., o obětech trestných činů a o změně některých zákonů (zákon o obětech trestných činů), ve znění pozdějších předpisů, nepostačuje pouhé konstatování, že je poškozený obětí některého z trestných činů tam uvedených, ale vždy je nutné zjistit i konkrétní zvýšené nebezpečí způsobení druhotné újmy"
+
 #### Pojem oběti (odst. 1–3) — širší než poškozený
 
 § 2 odst. 2 definuje oběť jako fyzickou osobu, které bylo nebo mělo být trestným činem ublíženo na zdraví, způsobena škoda nebo nemajetková újma, nebo na jejíž úkor se pachatel obohatil nebo měl obohatit. Klíčová je formulace „bylo nebo **mělo být**" — postačí, že újma měla vzniknout; není třeba čekat na pravomocné zjištění škody či pachatele. Oběť je vždy fyzická osoba; právnické osoby mají podle zákona samostatné, užší postavení „dotčené právnické osoby" (§ 7 a násl.), a to jen v případě zneužití identifikačních údajů. Odst. 1 rozšiřuje pojem trestného činu o čin jinak trestný (spáchaný osobou trestně neodpovědnou, např. pro nepříčetnost nebo nedostatek věku) — i oběti takového činu náleží plná ochrana podle zákona.
@@ -156,6 +161,11 @@ Odst. 6 definuje akreditovaný subjekt jako právnickou osobu s akreditací udě
 **Informační povinnost jako průběžná zásada (odst. 4)** — povinnost srozumitelně informovat o právech a umožnit jejich uplatnění se týká Policie ČR, orgánů činných v trestním řízení a registrovaných subjektů, a to i opakovaně na žádost oběti; tato zásada je konkretizována v celém Díle 2 (§§ 7–13).
 
 **Zásada spolupráce (odst. 5)** — ukládá orgánům činným v trestním řízení a Policii ČR spolupracovat s registrovanými poskytovateli pomoci, což je funkčním předpokladem účinného odkazování obětí na odbornou pomoc podle § 8 odst. 1 písm. b).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2865/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3393D90D3A8277C2C1258C8F004D37E7?openDocument) — 10. 4. 2025, kat. A
+  > „Nesprávný úřední postup, jenž vyústil v opakovaný výslech nezletilé jako zvlášť zranitelné oběti, může spočívat i v tom, že skutečnosti, které mohly být zjištěny při výslechu jediném (nebo při již uskutečněném předchozím výslechu), zjištěny nebyly, a proto bylo nutno je zjišťovat při výslechu dalším"
 
 #### F. Kazuistika
 
@@ -807,6 +817,11 @@ Slabé místo: kritérium „nezbytnosti pro řádné uplatnění práva na obha
 
 § 18 chrání oběť před druhotnou újmou při samotném výslechu tím, že omezuje přípustnost otázek zasahujících do intimní sféry, zejména předchozích sexuálních vztahů a chování oběti. Odst. 1 stanoví přísný test nezbytnosti — takové otázky lze klást jen tehdy, je-li to nezbytné pro objasnění skutečností důležitých pro trestní řízení; nejde tedy o obecný zákaz, ale o kvalifikovanou výjimku z pravidla nekladení. I je-li nezbytnost dána, musí být otázky formulovány zvlášť šetrně a obsahově vyčerpávajícím způsobem, aby nebylo nutné výslech k témuž tématu opakovat, a musí být přizpůsobeny věku, osobním zkušenostem a psychickému stavu oběti. Odst. 2 dává oběti procesní nástroj obrany — právo kdykoliv namítnout zaměření otázky; námitka se zaznamená do protokolu a o její důvodnosti rozhoduje vyslýchající orgán (nikoliv oběť sama, ale ani vyslýchající strana bez záznamu a přezkoumatelnosti).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2865/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3393D90D3A8277C2C1258C8F004D37E7?openDocument) — 10. 4. 2025, kat. A
+  > „Nesprávný úřední postup, jenž vyústil v opakovaný výslech nezletilé jako zvlášť zranitelné oběti, může spočívat i v tom, že skutečnosti, které mohly být zjištěny při výslechu jediném (nebo při již uskutečněném předchozím výslechu), zjištěny nebyly, a proto bylo nutno je zjišťovat při výslechu dalším"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Při výslechu oběti trestného činu znásilnění se obhájce obviněného během hlavního líčení ptá na její předchozí sexuální partnery a způsob oblékání v době před útokem, aniž by tyto otázky souvisely s okolnostmi skutku samotného.
@@ -881,6 +896,11 @@ Riziko formálního odmítnutí žádosti bez uvedení konkrétního „důleži
 **Výklad:**
 
 § 20 je ústředním ustanovením ochrany zvlášť zranitelných obětí při výslechu a shrnuje pět dílčích záruk. Odst. 1 stanoví obecný imperativ obzvláštní citlivosti s ohledem na konkrétní okolnosti zakládající zvlášť zranitelnost. Odst. 2 ukládá, je-li to možné, provedení výslechu v přípravném řízení vyškolenou osobou v k tomu upravených prostorách; u dětí je vyškolená osoba povinná vždy, s výjimkou neodkladného úkonu, kdy vyškolenou osobu nelze zajistit — jde o nejpřísnější požadavek v celém ustanovení, reflektující zvláštní zranitelnost dětských obětí. Odst. 3 zakotvuje zásadu jednorázovosti výslechu (aby nemusel být později opakován) a zásadu personální kontinuity při dalším výslechu před stejným orgánem. Odst. 4 upravuje právo nepřát si bezprostřední vizuální kontakt s podezřelým/obviněným, kdy se přednostně využívá audiovizuální technika (je-li technicky dostupná), avšak vždy při zachování práva na obhajobu — jde o vyvažující klauzuli analogickou § 16 větě druhé. Odst. 5 rozšiřuje odst. 1–4 přiměřeně i na podání vysvětlení mimo formální výslech.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2865/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3393D90D3A8277C2C1258C8F004D37E7?openDocument) — 10. 4. 2025, kat. A
+  > „Nesprávný úřední postup, jenž vyústil v opakovaný výslech nezletilé jako zvlášť zranitelné oběti, může spočívat i v tom, že skutečnosti, které mohly být zjištěny při výslechu jediném (nebo při již uskutečněném předchozím výslechu), zjištěny nebyly, a proto bylo nutno je zjišťovat při výslechu dalším"
 
 #### F. Kazuistika
 
